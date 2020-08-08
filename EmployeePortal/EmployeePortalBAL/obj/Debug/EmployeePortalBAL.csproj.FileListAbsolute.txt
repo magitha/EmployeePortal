@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\bin\Debug\EmployeePortalBAL.dll
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\bin\Debug\EmployeePortalBAL.pdb
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\obj\Debug\EmployeePortalBAL.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\obj\Debug\EmployeePortalBAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\obj\Debug\EmployeePortalBAL.dll
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\obj\Debug\EmployeePortalBAL.pdb
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\bin\Debug\EmployeePortalDAL.dll
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\bin\Debug\EmployeePortalDAL.pdb
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\bin\Debug\EmployeePortalDAL.dll.config
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\EmployeePortal\EmployeePortalBAL\obj\Debug\EmployeePortalBAL.csproj.CopyComplete
